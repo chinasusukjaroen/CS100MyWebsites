@@ -1,0 +1,183 @@
+ 
+ @font-face {
+    font-family: 'Pirate'; /* ตั้งชื่อฟอนต์ */
+    src: url('resources/jack.ttf') format('truetype'); /* ชี้ไปยังไฟล์ฟอนต์ */
+}
+
+body
+{ 
+    background-image: url(resources/wall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    padding: 20px;
+}
+.poster
+{
+   background-image: url(resources/paper.jpg);
+   
+   width: 650px;
+   height: 1100px;
+   padding: 20px;
+   text-align: center;
+   display: block;
+   margin: auto;
+     
+  
+}
+
+
+
+#mugshot
+
+{
+width: 250x;
+height: 300px;
+
+}
+
+.bordered-image {
+    border: 5px solid #291200; /* กำหนดความหนา, ประเภท, และสีของเส้นขอบ */
+    padding: 10px; /* ระยะห่างระหว่างเส้นขอบกับภาพ */
+    text-align: center;
+    
+}
+
+
+.header
+{
+    font-size: 45px;
+    font-family: 'Pirate';
+    color: red;
+
+
+}
+
+.subheading
+{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Pirate';
+
+  
+
+}
+
+.name
+{
+
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Pirate';
+    
+
+
+
+
+}
+
+.alias
+{
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Pirate';
+    text-decoration: underline;
+    
+
+
+}
+
+
+.description
+
+{
+
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Pirate';
+    color: 	#5e4e0d;
+
+
+}
+
+.Favourite
+{
+
+    
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Pirate';
+    color: 	#5e4e0d;
+
+
+}
+
+h3
+{
+  color: red;
+  text-decoration: underline;
+  font-family: 'Pirate';
+
+  
+
+}
+
+
+
+
+
+
+.headers
+{
+    font-size: 45px;
+    font-family: 'Pirate';
+    color:red;
+
+
+}
+
+.subheadings
+{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Pirate';
+
+  
+
+}
+
+
+.price
+
+{
+
+    
+    font-size: 30px; 
+    font-weight: bold;
+    font-family: 'Pirate';
+
+}
+
+.prices
+
+{
+
+    
+    font-size: 40px; 
+    font-weight: bold;
+    font-family: 'Pirate';
+    display: inline;
+    position: relative; 
+    text-decoration: underline; 
+    text-decoration-thickness: 3px; 
+    box-shadow: 0 3px  black; 
+}
+
+
+
+
+
+
